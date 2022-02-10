@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<link href="styles/style.css" rel="stylesheet" type="text/css">
 <title>Hoja de vida</title>
 <h1>Hoja de Vida </h1>
 </head>
