@@ -6,10 +6,7 @@
 <h1>Hoja de Vida </h1>
 </head>
 <body>
-    <img src="foto.jpeg" width="120" height="150">
     <h2>Nicoll Niyireth Lopez Lozano</h2>
-    <h2> Cedula: 1.000.036.845</h2>
-    <h2> Telefono:320 441 76 63</h2>
     <h2>Estudiante de ingenieria de sistemas</h2>
 
 <h4 style="font-family:Verdana, Geneva, Tahoma, sans-serif;">Mi nombre es Nicoll Lopez soy estudiante de ingenieria de sistemas sexto semestre, los primeros semestres de mi carrrera no me gusto mucho a medida que iba avanzando me apasione mucho mas, debido a que los temas que investigaba eran mas emocionantes,
