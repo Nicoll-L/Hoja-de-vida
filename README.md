@@ -22,7 +22,7 @@
 <ol type="a" ><li>Primaria: Liceo Psicopedagoco Marco Fidel Suarez</li><li>Secundaria: Liceo Parroquial San Jose</li><li>Universidad: Universidad EAN cursando sexto semestre de ingenieria de sistemas</li></ol>
 <h3 style="color:#05bcf3">Experiencia Laboral </h3>
 <ol type="a" ><li>Actualmente estoy realizando un voluntariado en bases de datos y paginas web con la fundacion alianza social educativa</li></ol>
-<h3 style="color:#05bcf3">Contacto</h3><ol type="a" ><li>Correo:<a href="">nlopezl36845@universidadean.edu.co</a></li>
+<h3 style="color:#05bcf3">Contacto</h3><ol type="a" ><li>Correo: <a href="">nlopezl36845@universidadean.edu.co</a></li>
 
 </body >
 </html  >
